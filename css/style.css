@@ -6540,7 +6540,7 @@ button.bg-dark:focus {
 
 .pl-0,
 .px-0 {
-  padding-left: 0 !important; }
+  padding-left: 30px; !important; }
 
 .p-1 {
   padding: 0.25rem !important; }
