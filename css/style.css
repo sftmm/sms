@@ -458,6 +458,10 @@ pre {
     .container {
       max-width: 1140px; } }
 
+
+.maps {
+  margin-bottom: 50px;
+}
 .container-fluid {
   width: 100%;
   padding-right: 15px;
@@ -6498,7 +6502,9 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-top: 1.5rem !important;
+  }
+
 
 .ml-4,
 .mx-4 {
@@ -8811,7 +8817,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 0.3em 0;
   position: relative; }
 
 .ftco-no-pt {
